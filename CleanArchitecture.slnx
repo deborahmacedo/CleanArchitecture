@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="CleanArchitecture1.Application/CleanArchitecture.Application.csproj" Id="07bb2cde-1576-4f15-bb86-c14a8d8d01a9" />
+    <Project Path="CleanArchitecture1.Domain/CleanArchitecture.Domain.csproj" Id="c5222ac0-1769-4d66-b4b0-af0edaaa410f" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Persistence/CleanArchitecture.Persistence.csproj" Id="13d90e54-efb9-4ed9-990b-ef6674fed21f" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="CleanArchitecture.API/CleanArchitecture.API.csproj" Id="9bcb622d-dd06-431c-869f-b9e5f4cee90c" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="CleanArchitecture.Tests/CleanArchitecture.Tests.csproj" Id="6b18c232-c8b6-4fba-b923-921a304f428f" />
+  </Folder>
+</Solution>
